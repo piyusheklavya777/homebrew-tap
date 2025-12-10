@@ -7,6 +7,5 @@ class Karpi < Formula
 
   def install
     bin.install "karpi"
-    bin.install Dir["*.node"]
   end
 end
