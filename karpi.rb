@@ -1,9 +1,9 @@
 class Karpi < Formula
   desc "Developer Productivity CLI - Unleash Your Potential"
   homepage "https://github.com/piyusheklavya777/karpi"
-  url "https://github.com/piyusheklavya777/karpi/releases/download/v1.3.9/karpi-v1.3.9.tar.gz"
-  sha256 "9b1cc828782d48d66c96f980dc22619bd8bfb4990eddb259bbaa94faa5094a65"
-  version "1.3.9"
+  url "https://github.com/piyusheklavya777/karpi/releases/download/v1.3.11/karpi-v1.3.11.tar.gz"
+  sha256 "7b98f1d08817ad8d413723b97007efc0e758836741f5f13dbfaaba69134e7d62"
+  version "1.3.11"
 
   def install
     bin.install "karpi"
